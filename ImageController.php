@@ -3,6 +3,13 @@
 class ImageController
 {
   /**
+  * this class is a  Basic validation for Form input
+  * @Name: Validation calss
+  * @Author : Mohamed h Omar
+  * @email : m7md.omer@yahoo.com
+  */
+  
+  /**
    * 1-upload image
    * 2- check for mime types for different browsers
    * 3- check the file size - Note : not added yet
